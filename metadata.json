@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS",
+  "description": "JARVIS / MYRAA — Advanced Personal Android AI Assistant with Voice, Automation, Screen Intelligence, and Multi-Task Execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

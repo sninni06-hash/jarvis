@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="assistant_title">JARVIS / MYRAA</string>
+    <string name="assistant_subtitle">Advanced Personal AI Assistant</string>
+    <string name="welcome_sir">WELCOME BACK, SIR</string>
+    <string name="user_name_devil">NITIN (DEVIL)</string>
+    <string name="status_active">ACTIVE</string>
+    <string name="status_deactivated">DEACTIVATED</string>
+    <string name="status_idle">IDLE</string>
+    <string name="status_listening">LISTENING</string>
+    <string name="status_thinking">THINKING</string>
+    <string name="status_executing">EXECUTING</string>
+    <string name="status_verifying">VERIFYING</string>
+    <string name="status_responding">RESPONDING</string>
+    <string name="btn_mute">MUTE</string>
+    <string name="btn_unmute">UNMUTE</string>
+    <string name="creator_info">Mujhe Nitin ne create kiya hai.</string>
+</resources>
